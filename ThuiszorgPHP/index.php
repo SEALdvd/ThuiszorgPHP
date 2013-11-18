@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+  <link rel="stylesheet" type="text/css" href="library/css/main.css">
 </head>
 <body>
  <div class="container">

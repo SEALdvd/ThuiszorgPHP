@@ -4,7 +4,8 @@
     <list default="true" id="6d025028-ddb4-4708-994d-03d9c2543c91" name="Default" comment="" />
     <ignored path="ThuiszorgPHP.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.php" changelist="6d025028-ddb4-4708-994d-03d9c2543c91" time="1384763355525" ignored="false" />
+    <file path="/index.php" changelist="6d025028-ddb4-4708-994d-03d9c2543c91" time="1384763593260" ignored="false" />
+    <file path="/main.css" changelist="6d025028-ddb4-4708-994d-03d9c2543c91" time="1384763638886" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +25,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="18" selection-start="132" selection-end="132" vertical-scroll-proportion="0.41463414">
+            <state line="7" column="6" selection-start="41" selection-end="41" vertical-scroll-proportion="-4.576923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://C:/xampp/htdocs/ThuiszorgPHP/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="18" selection-start="248" selection-end="248" vertical-scroll-proportion="0.478424">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/library/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="5" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -44,9 +63,17 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/library/css/main.css" />
+        <option value="C:/xampp/htdocs/ThuiszorgPHP/index.php" />
       </list>
     </option>
   </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="localhost" name="localhost" />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -130,6 +157,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThuiszorgPHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ThuiszorgPHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -137,16 +182,28 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="coverage" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Web Application.localhost">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method />
     </configuration>
-    <list size="0" />
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="false" name="localhost" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="CHROME" server_name="localhost">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.localhost" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
@@ -248,9 +305,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/library/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="5" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="18" selection-start="132" selection-end="132" vertical-scroll-proportion="0.41463414">
+        <state line="7" column="6" selection-start="41" selection-end="41" vertical-scroll-proportion="-4.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/xampp/htdocs/ThuiszorgPHP/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="18" selection-start="248" selection-end="248" vertical-scroll-proportion="0.478424">
           <folding />
         </state>
       </provider>
