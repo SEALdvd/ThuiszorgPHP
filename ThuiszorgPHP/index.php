@@ -1,11 +1,5 @@
 <?php
-/**
- * Created by JetBrains PhpStorm.
- * User: Danny van Dalen
- * Date: 18-11-13
- * Time: 8:59
- * To change this template use File | Settings | File Templates.
- */
+
 
 ?>
 
@@ -15,6 +9,6 @@
 
 </head>
 <body>
- <h1>Hallo</h1>
+ <h1>Test h1</h1>
 </body>
 </html>
